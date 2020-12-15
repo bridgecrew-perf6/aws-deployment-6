@@ -78,7 +78,7 @@
                         </configuration>
                     </execution>
                     <execution>
-                        <id>sudo npm install</id>
+                        <id>npm install</id>
                         <goals>
                             <goal>npm</goal>
                         </goals>
@@ -148,7 +148,7 @@
                                 </configuration>
                             </execution>
                             <execution>
-                                <id>npm install</id>
+                                <id>sudo npm install</id>
                                 <goals>
                                     <goal>npm</goal>
                                 </goals>
