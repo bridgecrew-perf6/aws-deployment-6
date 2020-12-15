@@ -148,9 +148,9 @@
                                 </configuration>
                             </execution>
                             <execution>
-                                <id>sudo npm install</id>
+                                <id>npm install</id>
                                 <goals>
-                                    <goal>npm</goal>
+                                    <goal>sudo npm</goal>
                                 </goals>
                                 <configuration>
                                     <arguments>install</arguments>
