@@ -68,7 +68,7 @@ export default function SimpleTable() {
         <GroupIcon />
       </Avatar>
       <Typography component="h1" variant="h5">
-        Employee Directory
+        My Employee Directory
       </Typography>
 
       {isLoading ? (
